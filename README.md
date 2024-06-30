@@ -1,0 +1,1 @@
+# python_basics_lesson_6_qa_guru
